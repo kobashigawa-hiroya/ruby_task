@@ -10,4 +10,4 @@ else
   total_price = (price * number)
 end
 
-puts "合計料金#{total_price}"
+puts "合計料金#{total_price.floor}"
